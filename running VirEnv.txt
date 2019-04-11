@@ -1,0 +1,9 @@
+1) install python virtual environment
+   *can refer to video
+   
+2)create virtual environment in cmd
+  >> virtualenv <ENV-NAME>
+3)activate virtual environment
+  >> ..\Scripts\activate.bat
+  - to deactivate just use >> 'deactivate'
+4)install required pacakges (in the activated virtualenv)
